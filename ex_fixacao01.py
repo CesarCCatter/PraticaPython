@@ -6,7 +6,7 @@
 Entregue na ativdade Teams (Atividade FTI 01) o LINK do seu repositório com esta atividade.
 '''
 
-real = float(input("valor em dólares"))
+real = float(input("valor em dólares:"))
 
 dolar = 4.78
 
